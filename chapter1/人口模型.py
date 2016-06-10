@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jun 10 10:23:41 2016
-
-@author: lenovo
-"""
-
 import numpy as np
 from pylab import *
 from math import *
