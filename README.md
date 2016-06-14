@@ -7,3 +7,4 @@
 ###第五次作业[人口模型](https://www.zybuluo.com/kokokokokl/note/403874)
 ###第六次作业[炮弹的轨迹](https://www.zybuluo.com/kokokokokl/note/404833)
 ###第七次作业[棒球轨迹](https://www.zybuluo.com/kokokokokl/note/404952)
+###第八次作业[单摆模型](https://www.zybuluo.com/kokokokokl/note/406532)
