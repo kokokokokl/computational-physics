@@ -9,3 +9,4 @@
 ###第七次作业[棒球轨迹](https://www.zybuluo.com/kokokokokl/note/404952)
 ###第八次作业[单摆模型](https://www.zybuluo.com/kokokokokl/note/406532)
 ###第九次作业[混沌效应](https://www.zybuluo.com/kokokokokl/note/408024)
+###第十次作业[洛伦兹模型](https://www.zybuluo.com/kokokokokl/note/409071)
